@@ -1,5 +1,5 @@
 title: Kyle Farmer # name of the site
-author: Kyle Farmer# name of site's author
+author: Kyle Farmer # name of site's author
 email: kfarmer@andrew.cmu.edu # email of site's author
 url: https://kylefarmer1.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
