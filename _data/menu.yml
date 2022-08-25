@@ -13,7 +13,7 @@ entries:
 
   - title: research
     entries:
-      - title: box
+      - title: box (cmu internal)
         url: 'https://cmu.box.com/s/fpm4rhqh96k3e9kcngvds8v96ur2yo2s'
 
 #  - title: all posts
@@ -23,13 +23,13 @@ entries:
 #      show_more_text: See archive...
 #      show_more_url: archive.html
 
-#  - title: posts by category
-#    post_list:
-#      limit: 1
-#      category: example2
-#      show_more: true
-#      show_more_text: See more posts...
-#      show_more_url: example2-archive.html
+  - title: posts 
+    post_list:
+      limit: 10
+      category: show
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
 
 #  - title: rss
 #    url: feed.xml
