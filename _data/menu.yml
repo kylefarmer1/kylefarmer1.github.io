@@ -5,16 +5,16 @@ entries:
   - title: me
     entries:
       - title: email
-        url: 'mailto:kfarmer@andrew.cmu.edu'
+        url: 'mailto:ksfarmer@umich.edu'
       - title: github
         url: 'https://github.com/kylefarmer1'
       - title: about
         url: about
 
-  - title: research
-    entries:
-      - title: box (cmu internal)
-        url: 'https://cmu.box.com/s/fpm4rhqh96k3e9kcngvds8v96ur2yo2s'
+#  - title: research
+#    entries:
+#      - title: box (cmu internal)
+#        url: 'https://cmu.box.com/s/fpm4rhqh96k3e9kcngvds8v96ur2yo2s'
 
 #  - title: all posts
 #    post_list:
